@@ -28,13 +28,12 @@
 - for(Windows user just run the bat file (start.bat) )
 - Run Python zero-tool.py 
 
+### Giấy phép
 
-### License
+- Zero-Tool theo Giấy phép MIT
+- Sử dụng nó mà không cung cấp cho chúng tôi tín dụng sẽ dẫn đến Vi phạm luật Giấy phép
 
-- Zero-Tool  is under the MIT License
-- Using it without giving us credit would lead to Breaking the License law
-
-### Preview
+### Xem trước
 ![image](https://github.com/Levanchuongit/Zero-attacker/blob/main/zero-power-.png)
 ![image](https://github.com/Levanchuongit/Zero-attacker/blob/main/zero.png)
 ![image](https://github.com/Levanchuongit/Zero-attacker/blob/main/zero-web.png)
